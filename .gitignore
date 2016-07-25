@@ -1,0 +1,9 @@
+# IDE & System files
+.DS_Store
+.settings
+.project
+.idea/
+
+# Project files
+output/
+bin/
